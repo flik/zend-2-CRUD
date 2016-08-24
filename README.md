@@ -7,7 +7,7 @@ update files and configure the application with your mysql:
   
 config/autoload/global.php
 
-config/autoload/global.php
+config/autoload/local.php
   
 #Step 3 
 ZendSkeletonApplication is set up to use Composer (http://getcomposer.org) to resolve its dependencies. In this case, the dependency is Zend Framework 2 itself.

@@ -1,6 +1,6 @@
 # zend-2-CRUD
-It is simple CRUD application in Zend 2
-#Step 1
+It is simple CRUD application in Zend 2. Some files were created by Damien G. (damien.galicher@gmail.com). You can email for help.
+#Step 1 
 Create a database with the name zf2 and import the sql script from folder dbsql.
 # Step 2
 update files and configure the application with your mysql:

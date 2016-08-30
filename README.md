@@ -33,4 +33,7 @@ and visit the url: localhost:8090
 
 In case of any issue just clear the cache files from folder: data/cache
 
+Issue will fix other wise check the missing extinsion of php like php_intl.dll
+just enable it in php.ini
 
+and then run again

@@ -21,5 +21,7 @@ return [
     'Zend\Router',
     'Zend\Validator',
     'Application',
+    'Building',
+    'Codegenerator',
     'Blog',
 ];
